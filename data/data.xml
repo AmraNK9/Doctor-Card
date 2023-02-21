@@ -1,0 +1,24 @@
+<doctors>
+    <doctor>
+        <name>Dr. David</name>
+        <speciality> Heart </speciality>
+        <email>david09da@gmail.com</email>
+        <image>data\guardian-angel-2704181_1280.jpg</image>
+    </doctor>
+    <doctor>
+        <name>Dr. Micrey</name>
+        <speciality> Psycho </speciality>
+        <email>Mic309joe10@gmail.com</email>
+                <image>data\woman-2141808_1280.jpg</image>
+
+    </doctor>
+    <doctor>
+        <name>Dr. Nevisce</name>
+        <speciality> eye,ear,noise </speciality>
+        <email>nae1032dd@gmail.com</email>
+        <image>data\SME-interview-with-doctor_600x400.jpeg</image>
+
+    </doctor>
+
+
+</doctors>
